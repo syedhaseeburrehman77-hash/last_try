@@ -1,4 +1,4 @@
-# 🌱 Smart Garden App!
+# 🌱 MY Smart Garden App!
 
 An AI-powered plant care application that helps you manage your garden using weather data, AI plant identification, and smart care reminders.
 
